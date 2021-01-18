@@ -1,6 +1,7 @@
 # datascience
 Data Science Stuff
 
-## Pandas
-### Pandas in 10 minutes
-Pandas and Tidy?
+## About the files
+
+*csv_to_postgres.py* - Python script to import CSV content into a Postgres database.
+
