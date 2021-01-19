@@ -9,4 +9,5 @@ Data Science Stuff
 copying to permitinfo database
 
 **/data** - CSV files with different data files including iris.csv, building-permits.csv, etc.
+
 **/notebooks** Juypter Notebooks
