@@ -1,6 +1,8 @@
 # Data Science
 
-Data Science Stuff
+
+> You can't manage what you can't measure.
+>
 
 ## About the files
 
@@ -35,5 +37,3 @@ copying to permitinfo database
 
 
 
-> You can't manage what you can't measure.
->
