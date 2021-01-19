@@ -1,4 +1,5 @@
-# datascience
+# Data Science
+
 Data Science Stuff
 
 ## About the files
@@ -26,7 +27,13 @@ copying to permitinfo database
 
 ### Misc.
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+* [GitHub Flow](https://guides.github.com/introduction/flow/)
+
+### Books
+[Python for Data Analysis](https://learning.oreilly.com/library/view/python-for-data/9781491957653/titlepage01.html)
+[Python Data Science Handbook](https://learning.oreilly.com/library/view/python-data-science/9781491912126/)
 
 
-> Quote
+
+> You can't manage what you can't measure.
 >
