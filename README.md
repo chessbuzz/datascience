@@ -14,11 +14,19 @@ copying to permitinfo database
 
 ## Reference
 
+### Pandas
 * [Intro to Pandas Data Structures](https://gregreda.com/2013/10/26/intro-to-pandas-data-structures/)
+
+### Tidy Data
 * [Tidy Data in Pandas](http://www.jeannicholashould.com/tidy-data-in-python.html)
-* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-* [Pandas and Tidy Data](http://shzhangji.com/blog/2017/09/30/pandas-and-tidy-data/#:~:text=In%20the%20paper%20Tidy%20Data,data%20more%20easily%20and%20effectively)
+
+### Processes & Frameworks
 * [Team Data Science Process (TDS)](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview)
+* [Pandas and Tidy Data](http://shzhangji.com/blog/2017/09/30/pandas-and-tidy-data/#:~:text=In%20the%20paper%20Tidy%20Data,data%20more%20easily%20and%20effectively)
+
+### Misc.
+* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+
 
 > Quote
 >
