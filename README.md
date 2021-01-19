@@ -7,3 +7,6 @@ Data Science Stuff
 
 **largecsv_to_postgres.py** Python script to import large CSV file content into a Postgres database.
 copying to permitinfo database
+
+**/data** - CSV files with different data files including iris.csv, building-permits.csv, etc.
+**/notebooks** Juypter Notebooks
