@@ -6,14 +6,14 @@
 
 ## About the files
 
-**csv_to_postgres.py** - Python script to import CSV content into a Postgres database.
+* **csv_to_postgres.py** - Python script to import CSV content into a Postgres database.
 
-**largecsv_to_postgres.py** Python script to import large CSV file content into a Postgres database.
+* **largecsv_to_postgres.py** Python script to import large CSV file content into a Postgres database.
 copying to permitinfo database
 
-**/data** - CSV files with different data files including iris.csv, building-permits.csv, etc.
+* **/data** - CSV files with different data files including iris.csv, building-permits.csv, etc.
 
-**/notebooks** Juypter Notebooks
+* **/notebooks** Juypter Notebooks
 
 ## Reference
 
