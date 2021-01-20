@@ -35,5 +35,7 @@ copying to permitinfo database
 * [Python for Data Analysis](https://learning.oreilly.com/library/view/python-for-data/9781491957653/titlepage01.html)
 * [Python Data Science Handbook](https://learning.oreilly.com/library/view/python-data-science/9781491912126/)
 
+### Datasets 
+* [Vega Datasets](https://github.com/vega/vega-datasets/tree/master/data)
 
 
